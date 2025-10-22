@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
-  "VITE_SEO_SITE_NAME": "Coinbroo Demo",
+  "VITE_SEO_SITE_NAME": "Coinbroo Testnet",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://testnet.coinbroo.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
